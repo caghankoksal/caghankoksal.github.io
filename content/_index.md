@@ -65,8 +65,8 @@ sections:
         - title: Master Thesis Student
           company: Carl Zeiss AG
           company_url: 'https://www.zeiss.com/corporate/en/home.html'
-          company_logo: org-gc
-          location: München
+          company_logo: zeiss
+          location: München, Germany
           date_start: '2023-07-15'
           date_end: '2024-01-15'
           description: |2-
@@ -74,12 +74,25 @@ sections:
         - title: Working Student
           company: Carl Zeiss AG
           company_url: 'https://www.zeiss.com/corporate/en/home.html'
-          company_logo: org-x
-          location: München
+          company_logo: zeiss
+          location: München, Germany
           date_start: '2022-09-15'
           date_end: '2023-07-15'
           description: |2-
               * Unsupervised Semantic Segmentation of Surgery Videos
+         - title: Research Asssistant
+          company: Koc University
+          company_url: 'https://www.zeiss.com/corporate/en/home.html'
+          company_logo: koc_university
+          location: Istanbul,Turkey
+          date_start: '2021-09-15'
+          date_end: '2022-09-15'
+          description: |2-
+              * Understanding of Comic Scenes
+              * Unsupervised Object Detection in Comic Panels
+              * Emotion Recognition in Comic Panels
+              * Domain Adaptation with GANs
+              
     design:
       columns: '2'
   # - block: accomplishments
