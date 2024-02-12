@@ -3,7 +3,7 @@ title: Graph Neural Networks on Abdominal Organs
 summary: Explored capabilities Graph Neural Networks on organ mesh data. Used GNNs to predict Age, BMI, Sex, Height and weight of the patients.
 tags:
   - Deep Learning
-date: '2022-04'
+date: '2022-04-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/caghankoksal/organ-mesh-registration-and-property-prediction'
