@@ -82,7 +82,7 @@ sections:
               * Unsupervised Semantic Segmentation of Surgery Videos
         - title: Research Asssistant
           company: Koc University
-          company_url: 'https://www.zeiss.com/corporate/en/home.html'
+          company_url: 'https://cs.ku.edu.tr/'
           company_logo: koc_university
           location: Istanbul,Turkey
           date_start: '2021-09-15'
