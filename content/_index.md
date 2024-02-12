@@ -80,7 +80,7 @@ sections:
           date_end: '2023-07-15'
           description: |2-
               * Unsupervised Semantic Segmentation of Surgery Videos
-         - title: Research Asssistant
+        - title: Research Asssistant
           company: Koc University
           company_url: 'https://www.zeiss.com/corporate/en/home.html'
           company_logo: koc_university
