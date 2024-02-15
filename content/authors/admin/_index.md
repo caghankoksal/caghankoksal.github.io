@@ -57,12 +57,12 @@ skills:
       - name: C++
         description: ''
         #percent: 80
-        icon: c
+        icon: graph
         #icon_pack: fab
       - name: Computer Vision
         description: 'Video Segmentation, Generative Models, Multimodal Learning'
         #percent: 100
-        icon: icon:vision
+        icon: zeiss
         #icon_pack: fas
       - name: Geometric Learning
         description: 'Scene Graph Generation, Graph Learning'
