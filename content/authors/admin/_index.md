@@ -62,18 +62,18 @@ skills:
       - name: Computer Vision
         description: 'Video Segmentation, Generative Models, Multimodal Learning'
         #percent: 100
-        icon: vision
+        icon: icon:vision
         #icon_pack: fas
       - name: Geometric Learning
         description: 'Scene Graph Generation, Graph Learning'
         #percent: 100
-        icon: graph
+        icon: icon:graph
         #icon_pack: fas
       - name: Natural Language Processing
         description: 'Named Entity Recognition, Question Answering'
-      - name: mern
+      - name: MERN
         description: 'Basic capabilities with React, Node.js, MongoDB and Redux'
-        icon: mern 
+        icon: icon:mern 
 
 
 # Social/Academic Networking
