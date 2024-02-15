@@ -31,15 +31,15 @@ bio: My research interests include Unsupervised (Video) Segmentation, Scene Grap
 interests:
   - Self-supervised Learning
   - Unsupervised Learning
-  - Scene Graphs
   - 
+  - Scene Graph Generation and Manipulation
 
 # Education to show in About widget
 education:
   courses:
     - course: MSc. in Informatics
       institution: Technical University of Munich
-      year: 2023
+      year: 2024 (Expected Graduation 05.24)
     - course: BSc in Computer Science
       institution: Sabanci University
       year: 2020

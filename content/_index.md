@@ -92,6 +92,18 @@ sections:
               * Unsupervised Object Detection in Comic Panels
               * Emotion Recognition in Comic Panels
               * Domain Adaptation with GANs
+        - title: NLP Working Student
+          company: Akbank
+          company_url: 'https://www.akbank.com/en-us/Pages/default.aspx'
+          company_logo: akbank
+          location: Istanbul,Turkey
+          date_start: '2019-10-15'
+          date_end: '2020-06-15'
+          description: |2-
+              * Web Crawling with Selenium
+              * Corpora Generation and Text Preprocessing
+              * Worked on spell-checking and autocomplete services.
+              * Implemented Knowledge Graph with Neo4j
               
     design:
       columns: '2'
