@@ -52,27 +52,28 @@ skills:
       - name: Python
         description: ''
         #percent: 80
-        #icon: python
-        #icon_pack: fab
+        icon: python
+        icon_pack: fab
       - name: C++
         description: ''
         #percent: 80
-        #icon: python
+        icon: c
         #icon_pack: fab
       - name: Computer Vision
         description: 'Video Segmentation, Generative Models, Multimodal Learning'
         #percent: 100
-        #icon: chart-line
+        icon: vision
         #icon_pack: fas
       - name: Geometric Learning
         description: 'Scene Graph Generation, Graph Learning'
         #percent: 100
-        #icon: chart-line
+        icon: graph
         #icon_pack: fas
       - name: Natural Language Processing
         description: 'Named Entity Recognition, Question answering'
-      - name: MERN
-        description: 'Basic capabilities with React, Node.js, MongoDB and Redux
+      - name: mern
+        description: 'Basic capabilities with React, Node.js, MongoDB and Redux'
+        icon: mern 
 
 
 # Social/Academic Networking
