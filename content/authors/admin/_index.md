@@ -39,7 +39,7 @@ education:
   courses:
     - course: MSc. in Informatics
       institution: Technical University of Munich
-      year: 2022 (Expected Graduation 05.24)
+      year: 2021 (Expected Graduation 05.24)
     - course: BSc in Computer Science
       institution: Sabanci University
       year: 2020
@@ -52,13 +52,27 @@ skills:
       - name: Python
         description: ''
         #percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Pytorch
+        #icon: python
+        #icon_pack: fab
+      - name: C++
         description: ''
+        #percent: 80
+        #icon: python
+        #icon_pack: fab
+      - name: Computer Vision
+        description: 'Video Segmentation, Generative Models, Multimodal Learning'
         #percent: 100
-        icon: chart-line
-        icon_pack: fas
+        #icon: chart-line
+        #icon_pack: fas
+      - name: Geometric Learning
+        description: 'Scene Graph Generation, Graph Learning'
+        #percent: 100
+        #icon: chart-line
+        #icon_pack: fas
+      - name: Natural Language Processing
+        description: 'Named Entity Recognition, Question answering'
+      - name: MERN
+        description: 'Basic capabilities with React, Node.js, MongoDB and Redux
 
 
 # Social/Academic Networking
