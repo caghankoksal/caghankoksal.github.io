@@ -64,7 +64,7 @@ skills:
       - name: Computer Vision
         description: 'Video Segmentation, Generative Models, Multimodal Learning'
         #percent: 100
-        icon: cv
+        icon: vision
         icon_pack: custom
       - name: Geometric Learning
         description: 'Scene Graph Generation, Graph Learning'
@@ -72,6 +72,8 @@ skills:
         icon: graph
         icon_pack: custom
       - name: Natural Language Processing
+        icon: book
+        icon_pack: fab
         description: 'Named Entity Recognition, Question Answering'
       - name: MERN
         description: 'Basic capabilities with React, Node.js, MongoDB and Redux'
