@@ -47,7 +47,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Languages
     items:
       - name: Python
         description: ''
@@ -57,23 +57,26 @@ skills:
       - name: C++
         description: ''
         #percent: 80
-        icon: graph
+        icon: c
         #icon_pack: fab
+  - name: Technical
+    items:
       - name: Computer Vision
         description: 'Video Segmentation, Generative Models, Multimodal Learning'
         #percent: 100
-        icon: zeiss
+        icon: cv
         icon_pack: custom
       - name: Geometric Learning
         description: 'Scene Graph Generation, Graph Learning'
         #percent: 100
         icon: graph
-        #icon_pack: fas
+        icon_pack: custom
       - name: Natural Language Processing
         description: 'Named Entity Recognition, Question Answering'
       - name: MERN
         description: 'Basic capabilities with React, Node.js, MongoDB and Redux'
         icon: mern 
+        icon_pack: custom
 
 
 # Social/Academic Networking
