@@ -25,21 +25,21 @@ organizations:
     url: https://www.cit.tum.de/cit/startseite/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Unsupervised (Video) Segmentation, Scene Graph Generation and Manipulation,
+bio: #My research interests include Unsupervised (Video) Segmentation, Scene Graph Generation and Manipulation,
 
 # Interests to show in About widget
 interests:
   - Self-supervised Learning
   - Unsupervised Learning
-  - 
-  - Scene Graph Generation and Manipulation
+  - Unsupervised (Video) Segmentation
+  - Image Generation and Manipulation Scene Graphs
 
 # Education to show in About widget
 education:
   courses:
     - course: MSc. in Informatics
       institution: Technical University of Munich
-      year: 2024 (Expected Graduation 05.24)
+      year: 2022 (Expected Graduation 05.24)
     - course: BSc in Computer Science
       institution: Sabanci University
       year: 2020
@@ -95,5 +95,6 @@ social:
 highlight_name: true
 ---
 
-Caghan Koksal is a Informatics MSc. Student at Technical University of Munich. His research interests are Unsupervised (Video) Segmentation, Scene Graph Generation and Manipulation and Generative Models.
+I am an MSc. Informatics student at TUM, with a focus on Computer Vision and NLP.
+My passion lies in bridging the gap between cutting-edge research and practical applications, consistently integrating state-of-the-art findings into real-world projects.
 {style="text-align: justify;"}
