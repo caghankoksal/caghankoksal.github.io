@@ -63,7 +63,7 @@ skills:
         description: 'Video Segmentation, Generative Models, Multimodal Learning'
         #percent: 100
         icon: zeiss
-        #icon_pack: fas
+        icon_pack: custom
       - name: Geometric Learning
         description: 'Scene Graph Generation, Graph Learning'
         #percent: 100
