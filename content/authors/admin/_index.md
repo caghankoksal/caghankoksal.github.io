@@ -70,7 +70,7 @@ skills:
         icon: graph
         #icon_pack: fas
       - name: Natural Language Processing
-        description: 'Named Entity Recognition, Question answering'
+        description: 'Named Entity Recognition, Question Answering'
       - name: mern
         description: 'Basic capabilities with React, Node.js, MongoDB and Redux'
         icon: mern 
@@ -81,9 +81,9 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: '/#contact'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
