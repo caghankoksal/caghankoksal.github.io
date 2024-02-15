@@ -67,13 +67,13 @@ skills:
       - name: Geometric Learning
         description: 'Scene Graph Generation, Graph Learning'
         #percent: 100
-        icon: icon:graph
+        icon: graph
         #icon_pack: fas
       - name: Natural Language Processing
         description: 'Named Entity Recognition, Question Answering'
       - name: MERN
         description: 'Basic capabilities with React, Node.js, MongoDB and Redux'
-        icon: icon:mern 
+        icon: mern 
 
 
 # Social/Academic Networking
